@@ -331,3 +331,34 @@ E:\SouthernERP Angular 7\API\API\Resolver\obj\Debug\Resolver.csproj.CopyComplete
 E:\SouthernERP Angular 7\API\API\Resolver\obj\Debug\Resolver.dll
 E:\SouthernERP Angular 7\API\API\Resolver\obj\Debug\Resolver.pdb
 E:\SouthernERP Angular 7\API\API\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Resolver.dll.config
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Resolver.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Resolver.pdb
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Helpers.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Mvc.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Razor.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Unity.Mvc5.dll
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Helpers.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Mvc.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.Razor.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GitHub\S-ERP\API\Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GitHub\S-ERP\API\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
+D:\GitHub\S-ERP\API\Resolver\obj\Debug\Resolver.csproj.CoreCompileInputs.cache
+D:\GitHub\S-ERP\API\Resolver\obj\Debug\Resolver.csproj.CopyComplete
+D:\GitHub\S-ERP\API\Resolver\obj\Debug\Resolver.dll
+D:\GitHub\S-ERP\API\Resolver\obj\Debug\Resolver.pdb
