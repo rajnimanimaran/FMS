@@ -101,3 +101,13 @@ E:\SouthernERP Angular 7\API\API\BusinessEntities\obj\Debug\BusinessEntities.csp
 E:\SouthernERP Angular 7\API\API\BusinessEntities\obj\Debug\BusinessEntities.dll
 E:\SouthernERP Angular 7\API\API\BusinessEntities\obj\Debug\BusinessEntities.pdb
 E:\SouthernERP Angular 7\API\API\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+D:\GitHub\S-ERP\API\BusinessEntities\bin\Debug\BusinessEntities.dll.config
+D:\GitHub\S-ERP\API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\GitHub\S-ERP\API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\GitHub\S-ERP\API\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\S-ERP\API\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\S-ERP\API\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+D:\GitHub\S-ERP\API\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+D:\GitHub\S-ERP\API\BusinessEntities\obj\Debug\BusinessEntities.csproj.CopyComplete
+D:\GitHub\S-ERP\API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\GitHub\S-ERP\API\BusinessEntities\obj\Debug\BusinessEntities.pdb
